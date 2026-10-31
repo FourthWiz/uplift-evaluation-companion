@@ -1,0 +1,11 @@
+# Tested with the shared Python 3.10 virtual environment
+numpy==2.2.6
+scipy==1.14.1
+pandas==2.3.3
+scikit-learn==1.6.1
+xgboost==3.2.0
+econml==0.16.0
+matplotlib==3.10.8
+nbformat==5.11.1
+nbclient==0.11.0
+ipykernel==7.2.0
